@@ -1,0 +1,14 @@
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\bin\Debug\net8.0\InterviewPrep.exe
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\bin\Debug\net8.0\InterviewPrep.deps.json
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\bin\Debug\net8.0\InterviewPrep.runtimeconfig.json
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\bin\Debug\net8.0\InterviewPrep.dll
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\bin\Debug\net8.0\InterviewPrep.pdb
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\InterviewPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\InterviewPrep.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\InterviewPrep.AssemblyInfo.cs
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\InterviewPrep.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\InterviewPrep.dll
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\refint\InterviewPrep.dll
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\InterviewPrep.pdb
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\InterviewPrep.genruntimeconfig.cache
+C:\Users\lopez\source\repos\InterviewPrep\InterviewPrep\obj\Debug\net8.0\ref\InterviewPrep.dll
